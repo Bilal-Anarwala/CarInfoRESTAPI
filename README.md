@@ -101,5 +101,3 @@ This project serves as an introduction to creating and using REST APIs with pers
 - Handle different HTTP methods (GET, PUT, DELETE)
 - Implement basic error handling in API responses
 - Implement a SQLite database for data persistence
-
-*Credit to Tech With Tim on YT for helping me learn REST APIs*
