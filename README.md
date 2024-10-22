@@ -66,7 +66,7 @@ curl -X PUT -H "Content-Type: application/json" -d '{
 
 To view car data, execute a curl command for the car you are looking for. A sample command and output will look like the following:
 
-```
+```bash
 curl http://127.0.0.1:5000/rx7fd
 {
     "CarName": "Mazda RX-7 FD",
